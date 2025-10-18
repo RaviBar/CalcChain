@@ -192,7 +192,7 @@ Required environment variables:
 
 ## Live Demo
 
-[Deployment link will be added here]
+https://calc-chain.vercel.app
 
 ## Contributing
 
